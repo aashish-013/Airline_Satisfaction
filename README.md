@@ -8,6 +8,7 @@ I have started out this project with gathering information for the dataset follo
 Models used for training: XGBClassifier and RandomForestClassifier
 Metric of Evaluation : AUC
 
+
 Feature Content is follows:
 
 Gender: Gender of the passengers (Female, Male)
