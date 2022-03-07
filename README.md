@@ -6,7 +6,9 @@ Problem Statement: This dataset contains a airline passenger satisfaction survey
 I have started out this project with gathering information for the dataset followed by EDA and some feature engineering. We were provided with a independent test set for this dataset so that was used for predictions and performance evaluation.
 
 Models used for training: XGBClassifier and RandomForestClassifier
+
 Metric of Evaluation : AUC
+
 
 
 Feature Content is follows:
